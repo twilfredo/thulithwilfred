@@ -1,22 +1,20 @@
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
 ### Hi there 👋
+- 🔥 I’m currently working on embedded projects involving QEMU, Opentitan and TockOS.
+- ⚡ I enjoy working with embedded/operating systems and making opensource contributions.
+- 🧐  I use Arch btw...
+- 📫 You can reach me at: thulith.mallawa@uqconnect.edu.au
 
 <!--
 **thulithwilfred/thulithwilfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
-
-[![Wilfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=thulithwilfred&show_icons=true&theme=tokyonight)](https://github.com/thulithwilfred/github-readme-stats)
-<!-- ## Snake on contributions
-![snake gif](https://github.com/thulithwilfred/thulithwilfred/blob/output/github-contribution-grid-snake.gif) -->
+### Recent Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/thulithwilfred?cardType=level&theme=nightowl)](https://git.io/awesome-stats-card)
