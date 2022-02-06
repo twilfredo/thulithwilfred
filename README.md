@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-## Snake on contributions
-![snake gif](https://github.com/thulithwilfred/thulithwilfred/blob/output/github-contribution-grid-snake.gif)
+[![Wilfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=thulithwilfred&show_icons=true&theme=tokyonight)](https://github.com/thulithwilfred/github-readme-stats)
+<!-- ## Snake on contributions
+![snake gif](https://github.com/thulithwilfred/thulithwilfred/blob/output/github-contribution-grid-snake.gif) -->
