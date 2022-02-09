@@ -16,6 +16,4 @@
 -->
 
 ### Some Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/thulithwilfred?cardType=github&theme=radical)](https://git.io/awesome-stats-card)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thulithwilfred&langs_count=6&hide=javascript,html,c%2B%2B,roff,yacc&theme=radical)](https://github.com/thulithwilfred/github-readme-stats)
+![Wilfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=thulithwilfred&show_icons=true&theme=tokyonight&count_private=true&hide=stars,&hide_rank=true)
