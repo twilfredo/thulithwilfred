@@ -9,11 +9,11 @@
 - 📫 You can reach me at: thulith.mallawa@uqconnect.edu.au
 
 <!--
-**thulithwilfred/thulithwilfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**twilfredo/twilfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
 
-![Wilfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=thulithwilfred&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&hide_rank=true&custom_title=Recent_stats)
+![Wilfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=twilfredo&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&hide_rank=true&custom_title=Recent_stats)
 <!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thulithwilfred&layout=compact&theme=tokyonight&hide=c%2B%2B,roff,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twilfredo&layout=compact&theme=tokyonight&hide=c%2B%2B,roff,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats) -->
