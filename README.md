@@ -6,7 +6,6 @@
 ### Hey there 👋
 - 🔥 I’m currently working on embedded projects involving QEMU, Opentitan and TockOS.
 - ⚡ I enjoy working with embedded/operating systems and making opensource contributions.
-- 📫 You can reach me at: thulith.mallawa@uqconnect.edu.au
 
 <!--
 **twilfredo/twilfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
